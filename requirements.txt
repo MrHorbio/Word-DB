@@ -1,4 +1,4 @@
 motor
 fastapi
 bson
-pydantic
+uvicorn
